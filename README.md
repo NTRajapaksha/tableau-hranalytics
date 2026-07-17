@@ -8,7 +8,7 @@ This project is an interactive, executive-level **Human Resources (HR) Analytics
 
 The dashboard focuses on actionable visual storytelling, identifying the root causes of employee attrition (turnover) and estimating its financial impact on the business.
 
-🔗 **[View the Interactive Dashboard on Tableau Public](INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+🔗 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/tableau-hranalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -43,4 +43,4 @@ This project translates complex business logic into Tableau calculated fields, i
 3. You can download the `.twbx` (Tableau Packaged Workbook) directly from my Tableau Public profile to view the backend calculations, container structure, and dashboard actions.
 
 ---
-*Built by [Your Name/LinkedIn] - 2026*
+*Built by Thathsara Rajapaksha
